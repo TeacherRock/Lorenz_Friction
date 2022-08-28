@@ -1,0 +1,16 @@
+﻿已經開始建置於 2022/1/22 下午 03:09:48。
+     1>節點 2 (Build 目標) 上的專案 "C:\Group\梓傑\2_Lorenz Friction\Lorenz_id\Lorenz_id\Lorenz_id.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Group\梓傑\2_Lorenz Friction\Lorenz_id\x64\Debug\Lorenz_id.exe" /INCREMENTAL /NOLOGO IMC3Driver.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Group\梓傑\2_Lorenz Friction\Lorenz_id\x64\Debug\Lorenz_id.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Group\梓傑\2_Lorenz Friction\Lorenz_id\x64\Debug\Lorenz_id.lib" /MACHINE:X64 x64\Debug\Main.obj
+         x64\Debug\MotionCard.obj
+         x64\Debug\SaveData.obj
+         x64\Debug\Toolbox.obj
+         Lorenz_id.vcxproj -> C:\Group\梓傑\2_Lorenz Friction\Lorenz_id\x64\Debug\Lorenz_id.exe
+     1>專案 "C:\Group\梓傑\2_Lorenz Friction\Lorenz_id\Lorenz_id\Lorenz_id.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.59
